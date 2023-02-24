@@ -1,5 +1,5 @@
 ---
-title: "What does the future hold for Elon Musk ?"
+title: "The future of Elon Musk ?"
 date: 2023-02-24
 draft: false
 tags: ["Elon Musk", "Future", "Technology","Entrepreneurship"]
