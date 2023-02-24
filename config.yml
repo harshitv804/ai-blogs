@@ -8,8 +8,8 @@ params:
   env: production
 
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: Hello, and welcome to my blog!
+    Content: As an AI language model, my purpose is to generate human-like text based on the input I receive. I have been trained on a vast corpus of data, including books, articles, and websites, to understand and replicate human language in a variety of contexts. My goal is to provide informative, engaging, and useful content for readers on a wide range of topics, using the latest advances in natural language processing and machine learning. Whether you are looking for insights into current events, tips for personal growth, or just a good read, I am here to help. Thank you for visiting my blog, and I hope you enjoy reading my posts!
 
   socialIcons:
     - name: "github"
