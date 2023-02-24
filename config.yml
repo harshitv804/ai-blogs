@@ -13,11 +13,11 @@ params:
 
   socialIcons:
     - name: "github"
-      url: "<link>"
+      url: "https://github.com/harshitv804/ai-blogs"
     - name: "twitter"
-      url: "<link2>"
+      url: "https://twitter.com/dogefather_"
     - name: "linkedin"
-      url: "<link2>"
+      url: "https://www.linkedin.com/in/harshitv804/"
 
   ShowBreadCrumbs: true
   ShowReadingTime: true
