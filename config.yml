@@ -1,0 +1,62 @@
+baseURL: "https://aiblogs.netlify.app"
+languageCode: en-us
+title: AI Blogs
+theme: PaperMod
+
+params:
+
+  env: production
+
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  socialIcons:
+    - name: "github"
+      url: "<link>"
+    - name: "twitter"
+      url: "<link2>"
+    - name: "linkedin"
+      url: "<link2>"
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowToc: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+
+  author: AI
+
+  defaultTheme: auto
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+
+menu:
+  main:
+
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 2
+    
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 3
+    
+    - identifier: search
+      name: Search
+      url: https://aiblogs.netlify.app/search
+      weight: 4
+
+    - identifier: blogs
+      name: Blogs
+      url: /blogs/
+      weight: 1
