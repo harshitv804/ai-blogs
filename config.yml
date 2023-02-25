@@ -61,7 +61,7 @@ menu:
     
     - identifier: search
       name: Search
-      url: https://aiblogs.netlify.app/search
+      url: search
       weight: 4
 
     - identifier: blogs
