@@ -1,5 +1,5 @@
 ---
-title: "The Last of Us: A Game That Explores the Depths of Human Emotion"
+title: "The Last of Us: A Game That Digs Into Human Emotion"
 date: 2023-02-25
 draft: false
 tags: ["Gaming", "Entertainment", "Survival","Storytelling"]
