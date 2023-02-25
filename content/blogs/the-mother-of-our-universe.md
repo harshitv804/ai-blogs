@@ -1,5 +1,5 @@
 ---
-title: "Who is mother of our universe ?"
+title: "The mother of our universe"
 date: 2023-02-23
 draft: false
 tags: ["Universe","Nature","Cosmic","Mythology"]
