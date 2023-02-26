@@ -1,6 +1,6 @@
 ---
 title: "Data Science Road Map By AI"
-date: 2023-02-24
+date: 2023-02-26
 draft: false
 tags: ["Technology", "Data", "Machine Learning","Programming","AI"]
 ---
