@@ -5,6 +5,8 @@ draft: false
 tags: ["AI", "SEO", "Technology"]
 ---
 
+![ChatGPT SEO](https://easyinsights.ai/easyinsights_wordpress/wp-content/uploads/2023/01/chat-gpt-1024x536.png)
+
 As a blogger, you know the importance of keyword research for creating high-quality, SEO-friendly content. However, it can be time-consuming to manually search for keywords and analyze their relevance and potential search volume. That's where ChatGPT, a language model developed by OpenAI, can come in handy! In this blog post, we'll explore how you can use ChatGPT for keyword research, with actual prompts to help you get started.
 
 ## 1. Identify your topic or niche
