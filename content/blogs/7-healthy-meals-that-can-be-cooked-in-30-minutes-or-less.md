@@ -1,6 +1,6 @@
 ---
 title: "7 Healthy Meals That Can Be Cooked In 30 Minutes Or Less"
-date: 2023-03- 02
+date: 2023-03-02
 draft: false
 tags: ["Cooking", "Healthy & Nutrition", "Fitness and Wellness", "Kitchen Hacks"]
 ---
