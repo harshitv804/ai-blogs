@@ -6,6 +6,7 @@ tags: ["Technology", "Future", "Physics","Universe"]
 ---
 
 ## Exploring the Limits of Physics
+![Light Speed](https://i.ytimg.com/vi/GCh0rxRD5AU/maxresdefault.jpg)
 
 The concept of traveling at the speed of light has captured the imagination of people for decades. The idea of zipping across the universe at such a velocity is fascinating and has been featured in numerous science fiction stories. But can we travel at the speed of light? In this blog post, we will explore this question and delve into the limits of physics that make this idea seemingly impossible.
 
@@ -22,6 +23,7 @@ Another problem with traveling at the speed of light is the increase in mass tha
 The concept of time dilation also plays a role in traveling at the speed of light. Time dilation occurs because of the theory of relativity, where the closer an object gets to the speed of light, the slower time appears to pass for that object relative to a stationary observer. This means that if an object were to travel at the speed of light, time would appear to stop altogether.
 
 ## Is Faster Than Light Travel Possible?
+![Light Speed](https://i.ytimg.com/vi/pTn6Ewhb27k/maxresdefault.jpg)
 
 Some people have speculated about traveling faster than the speed of light, but this idea is currently considered impossible according to the laws of physics. The reason for this is that an object's mass would become infinite as it approaches the speed of light, making it impossible to reach or exceed that velocity.
 

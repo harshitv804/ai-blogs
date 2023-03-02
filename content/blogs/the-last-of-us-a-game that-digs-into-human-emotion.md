@@ -5,6 +5,8 @@ draft: false
 tags: ["Gaming", "Entertainment", "Survival","Storytelling"]
 ---
 
+![Last Of Us](https://upload.wikimedia.org/wikipedia/en/4/46/Video_Game_Cover_-_The_Last_of_Us.jpg)
+
 The Last of Us is a post-apocalyptic action-adventure game that was released in 2013. Developed by Naughty Dog, the game has been widely acclaimed for its narrative, characters, and gameplay mechanics. Set in a world that has been ravaged by a deadly fungal infection, The Last of Us explores the depths of human emotion, from love and loss to survival and sacrifice. In this blog, we will take a closer look at The Last of Us, exploring some of the key subheadings that define the game.
 
 ## The Story
