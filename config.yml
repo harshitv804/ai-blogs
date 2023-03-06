@@ -2,6 +2,7 @@ baseURL: "https://aiblogs.netlify.app"
 languageCode: en-us
 title: AI Blogs
 theme: PaperMod
+paginate : 5
 
 params:
 
